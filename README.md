@@ -21,7 +21,7 @@ This project is a deep dive into the architecture that powers modern large langu
 * **Technology**: Python, PyTorch.
 * **Status**: Complete. The implementation successfully demonstrates the core principles of generative pre-trained transformers.
 
-> **[Link to the GPT-2 Project Repository &raquo;](https://github.com/omhome16/GPT2-from-Scratch)**
+> **[Link to the GPT-2 Project Repository &raquo;](https://github.com/omhome16/My-GPT-2-from-scratch)**
 
 ---
 
@@ -39,7 +39,7 @@ This project applies deep learning to the critical medical task of brain tumor s
 * **Best Result**: Achieved a **Dice Score of 0.8726** with the U-NET model after 50 epochs, demonstrating its effectiveness for this specific task.
 * **Technology**: Python, PyTorch, U-NET, Attention U-NET, Adam/AdamW, CosineAnnealingLR.
 
-> **[Link to the Brain Tumor Segmentation Project Repository &raquo;](https://github.com/omhome16/Brain-Tumor-Segmentation)**
+> **[Link to the Brain Tumor Segmentation Project Repository &raquo;](https://github.com/omhome16/lgg-MRI-medical-image-segmentation)**
 
 ---
 
@@ -59,7 +59,7 @@ This project addresses a key challenge in agriculture: the early and accurate de
 * **Best Result**: Achieved a **Dice Score of 0.6906** after 50 epochs of training.
 * **Technology**: Python, PyTorch, U-Net, Nested U-Net (U-Net++), Attention Gates.
 
-> **[Link to the Crop Disease Segmentation Project Repository &raquo;](https://github.com/omhome16/Crop-Disease-Segmentation)**
+> **[Link to the Crop Disease Segmentation Project Repository &raquo;](https://github.com/omhome16/crop-disease-segmentation)**
 
 ---
 
@@ -69,3 +69,4 @@ I am always open to discussing new projects, sharing ideas, or collaborating on 
 
 * **LinkedIn**: `[Your LinkedIn Profile]([https://www.linkedin.com/in//](https://www.linkedin.com/in/om-nawale-7b8722289/))`
 * **GitHub**: `[omhome16](https://github.com/omhome16)`
+
