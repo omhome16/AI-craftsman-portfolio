@@ -25,7 +25,34 @@ This project is a deep dive into the architecture that powers modern large langu
 
 ---
 
-### 2. Automated Segmentation of LGG Brain Tumors
+### 2. 💹 FinEdge RAG Chatbot
+
+**FinEdge** is an intelligent, conversational AI assistant designed for financial analysis. It leverages a Retrieval-Augmented Generation (RAG) pipeline to answer questions based *only* on a provided set of financial documents. This chatbot provides precise answers, cites the exact source page for verification, and maintains a professional, analytical tone throughout the conversation.
+
+## 🌟 Key Features
+
+* **Conversational AI with Memory**: Remembers previous parts of the conversation for context-aware follow-up questions.
+* **Source Verification**: Displays an image of the exact page from the source PDF document, allowing users to instantly verify the information.
+* **Secure & Private**: Operates exclusively on the documents you provide, ensuring your data remains private and the AI doesn't use external knowledge.
+* **Professional Persona**: The AI is prompted to act as a highly knowledgeable financial analyst, ensuring professional and relevant responses.
+* **Interactive UI**: A clean, user-friendly chat interface built with Streamlit.
+
+## 🛠️ Technology Stack
+
+* **Backend**: Python
+* **AI/ML Framework**: LangChain
+* **LLM**: Google Gemini (`gemini-1.5-flash-latest`)
+* **Embeddings**: Hugging Face `sentence-transformers`
+* **Vector Store**: FAISS (Facebook AI Similarity Search)
+* **Frontend**: Streamlit
+* **PDF Processing**: PyMuPDF (`fitz`)
+* **Environment Management**: `python-dotenv`
+
+> **[Link to the FineEdge-RAG-Chatbot repository &raquo;](https://github.com/omhome16/FinEdge-RAG-chatbot)**
+
+---
+
+### 3. Automated Segmentation of LGG Brain Tumors
 
 This project applies deep learning to the critical medical task of brain tumor segmentation. I developed and compared two powerful convolutional neural network architectures, **U-NET** and **Attention U-NET**, to automatically identify Low-Grade Glioma (LGG) regions in multi-modal MRI scans.
 
@@ -43,7 +70,7 @@ This project applies deep learning to the critical medical task of brain tumor s
 
 ---
 
-### 3. Crop Disease Segmentation using U-Net & Nested U-Net (U-Net++)
+### 4. Crop Disease Segmentation using U-Net & Nested U-Net (U-Net++)
 
 This project addresses a key challenge in agriculture: the early and accurate detection of crop diseases. I built a flexible deep learning pipeline for pixel-wise segmentation of diseased areas on plant leaves, implementing both U-Net and the more advanced Nested U-Net (U-Net++).
 
@@ -69,4 +96,5 @@ I am always open to discussing new projects, sharing ideas, or collaborating on 
 
 * **LinkedIn**: `[Your LinkedIn Profile]([https://www.linkedin.com/in//](https://www.linkedin.com/in/om-nawale-7b8722289/))`
 * **GitHub**: `[omhome16](https://github.com/omhome16)`
+
 
